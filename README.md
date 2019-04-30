@@ -14,6 +14,11 @@ The Project Uses the following Tools.
 One Quick Demo of Project is Availble here: https://drive.google.com/file/d/1lNMmSsD_Dz0RVbFGQVljZmzjmf62wOM6/view?usp=sharing
 
 Setup is not much difficult if you know what goes where 😃.
-To Recreate the project Read the Project_Setup file. 
+To Recreate the project Read the [Project_Setup](Project_Setup.ino) file. 
 
-For Any Help or Issue Reach to me at prasunguchhait1997@gmail.com or linkedin.com/in/iamprasunguchhait
+**Project History:**
+I started this project in Jan, 2018 for my Minor Project in Engineering. It takes me about 6 months 
+to acheive the basic functionality then another anothe 10 months to update and make the project more efficient. I have also published a paper on the same you can access it from springer.com/gp/book/9789811371653 after July 9 2019
+
+### For Any Help or Issue Reach to me at prasunguchhait1997@gmail.com or linkedin.com/in/iamprasunguchhait
+
