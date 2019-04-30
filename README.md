@@ -21,5 +21,3 @@ I started this project in Jan, 2018 for my Minor Project in Engineering. It take
 to acheive the basic functionality then another anothe 10 months to update and make the project more efficient. I have also published a paper on the same you can access it from [springer.com](https://www.springer.com/gp/book/9789811371653) .
 
 **For Any Help or Issue Reach to me on [Gmail](mailto:prasunguchhait1997@gmail.com) or [LinkedIn](https://www.linkedin.com/in/iamprasunguchhait)**
-
-### Happy Exploring ✌✌
